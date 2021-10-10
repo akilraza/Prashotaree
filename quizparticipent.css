@@ -1,0 +1,27 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: skyblue;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    color: forestgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6{
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div img{
+    padding: 0%;
+    resize: none;
+    text-align: center;
+
+}
+nav a{
+    font-family: 'New Tegomin', serif;
+    font-size: bold;
+}
+
